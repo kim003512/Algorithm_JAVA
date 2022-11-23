@@ -14,6 +14,7 @@ public class BJ_2675 {
         StringBuilder sb = new StringBuilder();
         /**
          * 방법1. 입력값을 char[]에 담아 해당 수 만큼 append
+         * 시간 : 120ms
          */
         while(t-- > 0) {
             StringTokenizer st = new StringTokenizer(br.readLine(), " ");
@@ -30,6 +31,7 @@ public class BJ_2675 {
 
         /**
          * 입력 값을 바로 받아들여와 해당 수 만큼 append
+         * 시간 : 120ms
          */
         while(t-- >0) {
             String[] input = br.readLine().split(" ");
