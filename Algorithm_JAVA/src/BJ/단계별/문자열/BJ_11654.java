@@ -7,10 +7,22 @@ import java.io.InputStreamReader;
 public class BJ_11654 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        /**
+         * BufferedReader를 통해 char -> int
+         */
         char input = br.readLine().charAt(0);
         int isalpa = (int)input;
 
-        System.out.print(isalpa);        
+        /**
+         * int로 바로 받아오기
+         */
+        int a = (int) br.readLine().charAt(0);
+        /**
+         * System.in을 통해 바로 받아오기
+         */
+        int b = System.in.read();
+
+        System.out.print(b);        
     }   
 }
 /**
