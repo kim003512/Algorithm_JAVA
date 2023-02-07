@@ -33,11 +33,23 @@ public class 과일장수 {
         int answer = 0;
 
         Arrays.sort(score);
-        
+
         for(int i=score.length % m; i<score.length; i += m) {
             answer += score[i];
         }
 
         return answer * m;
+    }
+
+    public static int solution3(int k, int m, int[] score) {
+        int answer = 0;
+
+        Arrays.sort(score);
+
+        for(int i=score.length-m; i>=0; i-=m) {
+            answer += score[i] * m; //담긴 사과 중 가장 낮은 점수 * 한 상자에 담긴 사과 개수(m)
+        }
+
+        return answer;
     }
 }
