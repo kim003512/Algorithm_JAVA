@@ -3,12 +3,12 @@
 - 모든 경우를 다 탐색해보는 경우
 - 주어진 범위 내에 모든 수를 탐색해보며 조건에 해당하는지 탐색하는 경우
 
-| 문제                                                  | 난이도 | 해결 여부 | 해결 링크 |
-| ----------------------------------------------------- | ------ | --------- | --------- |
-| [금민수의 개수](https://www.acmicpc.net/problem/1527) | 실버 1 |           |           |
-| [리모컨](https://www.acmicpc.net/problem/1107)        | 골드 5 |           |           |
-| [숫자 재배치](https://www.acmicpc.net/problem/16943)  | 실버 1 |           |           |
-| [숫자 정사각형](https://www.acmicpc.net/problem/1051) | 실버 4 |           |           |
+| 문제                                                  | 난이도 | 해결 여부 | 해결 링크                                                    |
+| ----------------------------------------------------- | ------ | --------- | ------------------------------------------------------------ |
+| [금민수의 개수](https://www.acmicpc.net/problem/1527) | 실버 1 |           |                                                              |
+| [리모컨](https://www.acmicpc.net/problem/1107)        | 골드 5 |           |                                                              |
+| [숫자 재배치](https://www.acmicpc.net/problem/16943)  | 실버 1 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/BJ_1051.java) |
+| [숫자 정사각형](https://www.acmicpc.net/problem/1051) | 실버 4 |           |                                                              |
 
 | 문제                                                         | 난이도  | 해결 여부 | 해결 링크 |
 | ------------------------------------------------------------ | ------- | --------- | --------- |
@@ -215,4 +215,6 @@
 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | Level 3 |           |           |
 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | Level 3 |           |           |
 | [방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190) | Level 5 |           |           |
+
+
 
