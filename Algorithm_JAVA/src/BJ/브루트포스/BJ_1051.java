@@ -6,13 +6,16 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class BJ_1051 {
+    static int N, M = Integer.MIN_VALUE;
+    static int[][] arr = new int[N][M];
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
-        int N = Integer.parseInt(st.nextToken());
-        int M = Integer.parseInt(st.nextToken());
-        int[][] arr = new int[N][M];
+        N = Integer.parseInt(st.nextToken());
+        M = Integer.parseInt(st.nextToken());
+        arr = new int[N][M];
 
         for (int i = 0; i < arr.length; i++) {
             String[] str = br.readLine().split("");
@@ -44,5 +47,26 @@ public class BJ_1051 {
             len--;
         }
         System.out.println(len * len);
+    }
+
+    public void solution() throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        // 2차원 배열 값 넣기
+        for (int i = 0; i < N; i++) {
+            String str = br.readLine();
+            for (int j = 0; j < M; j++) {
+                arr[i][j] = str.charAt(j) - '0';
+            }
+        }
+    }
+
+    public void solution2() throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        char[][] charArr = new char[N][M];
+
+        for (int i = 0; i < N; i++) {
+            charArr[i] = br.readLine().toCharArray();
+        }
     }
 }
