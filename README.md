@@ -5,7 +5,7 @@
 
 | 문제                                                  | 난이도 | 해결 여부 | 해결 링크                                                    |
 | ----------------------------------------------------- | ------ | --------- | ------------------------------------------------------------ |
-| [금민수의 개수](https://www.acmicpc.net/problem/1527) | 실버 1 |           |                                                              |
+| [금민수의 개수](https://www.acmicpc.net/problem/1527) | 실버 1 |      dfs 다시 풀어보기     |                                                              |
 | [리모컨](https://www.acmicpc.net/problem/1107)        | 골드 5 |           |                                                              |
 | [숫자 재배치](https://www.acmicpc.net/problem/16943)  | 실버 1 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/BJ_1051.java) |
 | [숫자 정사각형](https://www.acmicpc.net/problem/1051) | 실버 4 |           |                                                              |
