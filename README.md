@@ -1,14 +1,16 @@
-#### :white_check_mark: [브루트 포스](https://github.com/kim003512/Algorithm_JAVA/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4.md)
+#### :white_check_mark: 브루트 포스
 
 - 모든 경우를 다 탐색해보는 경우
 - 주어진 범위 내에 모든 수를 탐색해보며 조건에 해당하는지 탐색하는 경우
 
-| 문제                                                  | 난이도 | 해결 여부 | 해결 링크                                                    |
-| ----------------------------------------------------- | ------ | --------- | ------------------------------------------------------------ |
-| [금민수의 개수](https://www.acmicpc.net/problem/1527) | 실버 1 |      dfs 다시 풀어보기     |                                                              |
-| [리모컨](https://www.acmicpc.net/problem/1107)        | 골드 5 |           |                                                              |
-| [숫자 재배치](https://www.acmicpc.net/problem/16943)  | 실버 1 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/BJ_1051.java) |
-| [숫자 정사각형](https://www.acmicpc.net/problem/1051) | 실버 4 |           |                                                              |
+| 문제                                                  | 난이도   | 해결 여부 | 해결 링크                                                    |
+| ----------------------------------------------------- | -------- | --------- | ------------------------------------------------------------ |
+| [금민수의 개수](https://www.acmicpc.net/problem/1527) | 실버 1   |           |                                                              |
+| [리모컨](https://www.acmicpc.net/problem/1107)        | 골드 5   |           |                                                              |
+| [숫자 재배치](https://www.acmicpc.net/problem/16943)  | 실버 1   |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/BJ_1051.java) |
+| [숫자 정사각형](https://www.acmicpc.net/problem/1051) | 실버 4   |           |                                                              |
+| [블랙잭](https://www.acmicpc.net/problem/2798)        | 브론즈 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/BJ_2798.java) |
+| [분해합](https://www.acmicpc.net/problem/2231)        | 브론즈 2 |           | [:a: ](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/BJ_2231.java) |
 
 | 문제                                                         | 난이도  | 해결 여부 | 해결 링크 |
 | ------------------------------------------------------------ | ------- | --------- | --------- |
@@ -85,7 +87,7 @@
 
 <br>
 
-### :white_check_mark:[DFS / BFS](https://github.com/kim003512/Algorithm_JAVA/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/DFS%26BFS.md)
+### :white_check_mark:DFS / BFS
 
 - DFS
   - 깊이우선탐색으로 완전 탐색을 할때 사용
@@ -96,26 +98,27 @@
 
 [개념 참고](https://myeongmy.tistory.com/55)
 
-| 문제                                                         | 난이도 | 해결 여부 | 해결 링크 |
-| ------------------------------------------------------------ | ------ | --------- | --------- |
-| [아기 상어](https://www.acmicpc.net/problem/16236)           | 골드 3 |           |           |
-| [바이러스](https://www.acmicpc.net/problem/2606)             | 실버 3 |           |           |
-| [경로 찾기](https://www.acmicpc.net/problem/11403)           | 실버 1 |           |           |
-| [효율적인 해킹](https://www.acmicpc.net/problem/1325)        | 실버 1 |           |           |
-| [DFS와 BFS](https://www.acmicpc.net/problem/1260)            | 실버 2 |           |           |
-| [순열 사이클](https://www.acmicpc.net/problem/10451)         | 실버 3 |           |           |
-| [토마토](https://www.acmicpc.net/problem/7569)               | 골드 5 |           |           |
-| [미로 탐색](https://www.acmicpc.net/problem/2178)            | 실버 1 |           |           |
-| [경로 찾기](https://www.acmicpc.net/problem/11403)           | 실버 1 |           |           |
-| [단지 번호 붙이기](https://www.acmicpc.net/problem/2667)     | 실버 1 |           |           |
-| [안전 영역](https://www.acmicpc.net/problem/2468)            | 실버 1 |           |           |
-| [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | 골드 5 |           |           |
-| [촌수 계산](https://www.acmicpc.net/problem/2644)            | 실버 2 |           |           |
-| [결혼식](https://www.acmicpc.net/problem/5567)               | 실버 2 |           |           |
-| [연구소](https://www.acmicpc.net/problem/14502)              | 골드 4 |           |           |
-| [Baaaaaaaaaduk2](https://www.acmicpc.net/problem/16988)      | 골드 3 |           |           |
-| [구슬 탈출 2](https://www.acmicpc.net/problem/13460)         | 골드 1 |           |           |
-| [인구 이동](https://www.acmicpc.net/problem/16234)           | 골드 5 |           |           |
+| 문제                                                         | 난이도 | 해결 여부 | 해결 링크                                                    |
+| ------------------------------------------------------------ | ------ | --------- | ------------------------------------------------------------ |
+| [아기 상어](https://www.acmicpc.net/problem/16236)           | 골드 3 |           |                                                              |
+| [바이러스](https://www.acmicpc.net/problem/2606)             | 실버 3 |           |                                                              |
+| [경로 찾기](https://www.acmicpc.net/problem/11403)           | 실버 1 |           |                                                              |
+| [효율적인 해킹](https://www.acmicpc.net/problem/1325)        | 실버 1 |           |                                                              |
+| [DFS와 BFS](https://www.acmicpc.net/problem/1260)            | 실버 2 |           |                                                              |
+| [순열 사이클](https://www.acmicpc.net/problem/10451)         | 실버 3 |           |                                                              |
+| [토마토](https://www.acmicpc.net/problem/7569)               | 골드 5 |           |                                                              |
+| [미로 탐색](https://www.acmicpc.net/problem/2178)            | 실버 1 |           |                                                              |
+| [경로 찾기](https://www.acmicpc.net/problem/11403)           | 실버 1 |           |                                                              |
+| [단지 번호 붙이기](https://www.acmicpc.net/problem/2667)     | 실버 1 |           |                                                              |
+| [안전 영역](https://www.acmicpc.net/problem/2468)            | 실버 1 |           |                                                              |
+| [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | 골드 5 |           |                                                              |
+| [촌수 계산](https://www.acmicpc.net/problem/2644)            | 실버 2 |           |                                                              |
+| [결혼식](https://www.acmicpc.net/problem/5567)               | 실버 2 |           |                                                              |
+| [연구소](https://www.acmicpc.net/problem/14502)              | 골드 4 |           |                                                              |
+| [Baaaaaaaaaduk2](https://www.acmicpc.net/problem/16988)      | 골드 3 |           |                                                              |
+| [구슬 탈출 2](https://www.acmicpc.net/problem/13460)         | 골드 1 |           |                                                              |
+| [인구 이동](https://www.acmicpc.net/problem/16234)           | 골드 5 |           |                                                              |
+| [바닥 장식](https://www.acmicpc.net/problem/1388)            | 실버 4 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/DFS/BJ_1388.java) |
 
 | 문제                                                         | 난이도  | 해결 여부 | 해결 링크 |
 | ------------------------------------------------------------ | ------- | --------- | --------- |
@@ -215,6 +218,3 @@
 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | Level 3 |           |           |
 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | Level 3 |           |           |
 | [방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190) | Level 5 |           |           |
-
-
-
