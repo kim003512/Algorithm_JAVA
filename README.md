@@ -1,4 +1,4 @@
-#### :white_check_mark: 브루트 포스
+#### :white_check_mark: [브루트 포스](https://github.com/kim003512/Algorithm_JAVA/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4.md)
 
 - 모든 경우를 다 탐색해보는 경우
 - 주어진 범위 내에 모든 수를 탐색해보며 조건에 해당하는지 탐색하는 경우
