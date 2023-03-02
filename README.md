@@ -101,7 +101,7 @@
 | 문제                                                         | 난이도 | 해결 여부 | 해결 링크                                                    |
 | ------------------------------------------------------------ | ------ | --------- | ------------------------------------------------------------ |
 | [아기 상어](https://www.acmicpc.net/problem/16236)           | 골드 3 |           |                                                              |
-| [바이러스](https://www.acmicpc.net/problem/2606)             | 실버 3 |           |                                                              |
+| [바이러스](https://www.acmicpc.net/problem/2606)             | 실버 3 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/DFS/BJ_2606.java) |
 | [경로 찾기](https://www.acmicpc.net/problem/11403)           | 실버 1 |           |                                                              |
 | [효율적인 해킹](https://www.acmicpc.net/problem/1325)        | 실버 1 |           |                                                              |
 | [DFS와 BFS](https://www.acmicpc.net/problem/1260)            | 실버 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/DFS/BJ_1260.java) |
