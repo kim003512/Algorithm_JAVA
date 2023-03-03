@@ -120,17 +120,17 @@
 | [인구 이동](https://www.acmicpc.net/problem/16234)           | 골드 5 |           |                                                              |
 | [바닥 장식](https://www.acmicpc.net/problem/1388)            | 실버 4 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/DFS/BJ_1388.java) |
 
-| 문제                                                         | 난이도  | 해결 여부 | 해결 링크 |
-| ------------------------------------------------------------ | ------- | --------- | --------- |
-| [타켓 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | Level 2 |           |           |
-| [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | Level 2 |           |           |
-| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | Level 3 |           |           |
-| [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | Level 3 |           |           |
-| [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | Level 3 |           |           |
-| [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | Level 3 |           |           |
-| [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021) | Level 3 |           |           |
-| [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | Level 1 |           |           |
-| [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | Level 1 |           |           |
+| 문제                                                         | 난이도  | 해결 여부 | 해결 링크                                                    |
+| ------------------------------------------------------------ | ------- | --------- | ------------------------------------------------------------ |
+| [타켓 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | Level 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Lv2/%ED%83%80%EA%B2%9F_%EB%84%98%EB%B2%84.java) |
+| [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | Level 2 |           |                                                              |
+| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | Level 3 |           |                                                              |
+| [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | Level 3 |           |                                                              |
+| [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | Level 3 |           |                                                              |
+| [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | Level 3 |           |                                                              |
+| [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021) | Level 3 |           |                                                              |
+| [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | Level 1 |           |                                                              |
+| [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | Level 1 |           |                                                              |
 
 <br>
 
