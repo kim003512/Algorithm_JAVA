@@ -113,7 +113,7 @@
 | [안전 영역](https://www.acmicpc.net/problem/2468)            | 실버 1 |           |                                                              |
 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | 골드 5 |           |                                                              |
 | [촌수 계산](https://www.acmicpc.net/problem/2644)            | 실버 2 |           |                                                              |
-| [결혼식](https://www.acmicpc.net/problem/5567)               | 실버 2 |           |                                                              |
+| [결혼식](https://www.acmicpc.net/problem/5567)               | 실버 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/DFS/BJ_5567.java) |
 | [연구소](https://www.acmicpc.net/problem/14502)              | 골드 4 |           |                                                              |
 | [Baaaaaaaaaduk2](https://www.acmicpc.net/problem/16988)      | 골드 3 |           |                                                              |
 | [구슬 탈출 2](https://www.acmicpc.net/problem/13460)         | 골드 1 |           |                                                              |
