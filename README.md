@@ -123,7 +123,7 @@
 | 문제                                                         | 난이도  | 해결 여부 | 해결 링크                                                    |
 | ------------------------------------------------------------ | ------- | --------- | ------------------------------------------------------------ |
 | [타켓 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | Level 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Lv2/%ED%83%80%EA%B2%9F_%EB%84%98%EB%B2%84.java) |
-| [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | Level 2 |           |                                                              |
+| [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | Level 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Lv2/%EA%B2%8C%EC%9E%84_%EB%A7%B5_%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.java) |
 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | Level 3 |           |                                                              |
 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | Level 3 |           |                                                              |
 | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | Level 3 |           |                                                              |
