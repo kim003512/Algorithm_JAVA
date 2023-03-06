@@ -104,7 +104,7 @@
 | [바이러스](https://www.acmicpc.net/problem/2606)             | 실버 3 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/DFS/BJ_2606.java) |
 | [경로 찾기](https://www.acmicpc.net/problem/11403)           | 실버 1 |           |                                                              |
 | [효율적인 해킹](https://www.acmicpc.net/problem/1325)        | 실버 1 |           |                                                              |
-| [DFS와 BFS](https://www.acmicpc.net/problem/1260)            | 실버 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/DFS/BJ_1260.java) |
+| [DFS와 BFS](https://www.acmicpc.net/problem/1260)            | 실버 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/DFS/BJ_1260.java)<br />[:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/BFS/BJ_1260.java) |
 | [순열 사이클](https://www.acmicpc.net/problem/10451)         | 실버 3 |           |                                                              |
 | [토마토](https://www.acmicpc.net/problem/7569)               | 골드 5 |           |                                                              |
 | [미로 탐색](https://www.acmicpc.net/problem/2178)            | 실버 1 |           |                                                              |
@@ -123,7 +123,7 @@
 | 문제                                                         | 난이도  | 해결 여부 | 해결 링크                                                    |
 | ------------------------------------------------------------ | ------- | --------- | ------------------------------------------------------------ |
 | [타켓 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | Level 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Lv2/%ED%83%80%EA%B2%9F_%EB%84%98%EB%B2%84.java) |
-| [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | Level 2 |           |                                                              |
+| [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | Level 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Lv2/%EA%B2%8C%EC%9E%84_%EB%A7%B5_%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.java) |
 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | Level 3 |           |                                                              |
 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | Level 3 |           |                                                              |
 | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | Level 3 |           |                                                              |
