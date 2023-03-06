@@ -104,7 +104,7 @@
 | [바이러스](https://www.acmicpc.net/problem/2606)             | 실버 3 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/DFS/BJ_2606.java) |
 | [경로 찾기](https://www.acmicpc.net/problem/11403)           | 실버 1 |           |                                                              |
 | [효율적인 해킹](https://www.acmicpc.net/problem/1325)        | 실버 1 |           |                                                              |
-| [DFS와 BFS](https://www.acmicpc.net/problem/1260)            | 실버 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/DFS/BJ_1260.java) |
+| [DFS와 BFS](https://www.acmicpc.net/problem/1260)            | 실버 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/DFS/BJ_1260.java)<br />[:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/BFS/BJ_1260.java) |
 | [순열 사이클](https://www.acmicpc.net/problem/10451)         | 실버 3 |           |                                                              |
 | [토마토](https://www.acmicpc.net/problem/7569)               | 골드 5 |           |                                                              |
 | [미로 탐색](https://www.acmicpc.net/problem/2178)            | 실버 1 |           |                                                              |
