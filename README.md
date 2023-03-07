@@ -66,22 +66,22 @@
 | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | 실버 5 |           |           |
 | [뱀](https://www.acmicpc.net/problem/3190)               | 골드 4 |           |           |
 
-| 문제                                                         | 난이도  | 해결 여부 | 해결 링크 |
-| ------------------------------------------------------------ | ------- | --------- | --------- |
-| [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | Level 2 |           |           |
-| [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | Level 2 |           |           |
-| [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | Level 1 |           |           |
-| [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | Level 1 |           |           |
-| [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | Level 2 |           |           |
-| [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | Level 2 |           |           |
-| [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | Level 3 |           |           |
-| [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | Level 1 |           |           |
-| [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | Level 2 |           |           |
-| [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | Level 2 |           |           |
-| [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | Level 2 |           |           |
-| [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | Level 2 |           |           |
-| [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | Level 3 |           |           |
-| [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | Level 3 |           |           |
+| 문제                                                         | 난이도  | 해결 여부 | 해결 링크                                                    |
+| ------------------------------------------------------------ | ------- | --------- | ------------------------------------------------------------ |
+| [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | Level 2 |           |                                                              |
+| [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | Level 2 |           |                                                              |
+| [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | Level 1 |           |                                                              |
+| [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | Level 1 |           |                                                              |
+| [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | Level 2 |           |                                                              |
+| [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | Level 2 |           |                                                              |
+| [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | Level 3 |           |                                                              |
+| [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | Level 1 |           |                                                              |
+| [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | Level 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Lv2/%EA%B8%B0%EB%8A%A5_%EA%B0%9C%EB%B0%9C.java) |
+| [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | Level 2 |           |                                                              |
+| [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | Level 2 |           |                                                              |
+| [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | Level 2 |           |                                                              |
+| [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | Level 3 |           |                                                              |
+| [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | Level 3 |           |                                                              |
 
 
 
