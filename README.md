@@ -34,7 +34,7 @@
 | [세로읽기](https://www.acmicpc.net/problem/10798)       | 브론즈 1 |           |                                                              |
 | [윷놀이](https://www.acmicpc.net/problem/2490)          | 브론즈 3 |           |                                                              |
 | [알람 시계](https://www.acmicpc.net/problem/2884)       | 브론즈 3 |           |                                                              |
-| [개미](https://www.acmicpc.net/problem/3048)            | 실버 4   |           |                                                              |
+| [개미](https://www.acmicpc.net/problem/3048)            | 실버 4   |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/%EA%B5%AC%ED%98%84/BJ_3048.java) |
 | [도로와 신호등](https://www.acmicpc.net/problem/2980)   | 실버 4   |           |                                                              |
 | [킹](https://www.acmicpc.net/problem/1063)              | 실버 3   |           |                                                              |
 | [올림픽](https://www.acmicpc.net/problem/8979)          | 실버 5   |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/%EA%B5%AC%ED%98%84/BJ_8979.java) |
@@ -79,7 +79,7 @@
 | [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | Level 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Lv2/%EA%B8%B0%EB%8A%A5_%EA%B0%9C%EB%B0%9C.java) |
 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | Level 2 |           |                                                              |
 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | Level 2 |           |                                                              |
-| [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | Level 2 |           |                                                              |
+| [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | Level 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Lv2/%EB%8D%94_%EB%A7%B5%EA%B2%8C.java) |
 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | Level 3 |           |                                                              |
 | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | Level 3 |           |                                                              |
 
