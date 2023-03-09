@@ -29,28 +29,28 @@
 - 요구사항 구현, 문자열 관련 문제 등
 - 문제에 나와 있는 상황과 조건을 토대로 구현
 
-| 문제                                                    | 난이도   | 해결 여부 | 해결 링크 |
-| ------------------------------------------------------- | -------- | --------- | --------- |
-| [세로읽기](https://www.acmicpc.net/problem/10798)       | 브론즈 1 |           |           |
-| [윷놀이](https://www.acmicpc.net/problem/2490)          | 브론즈 3 |           |           |
-| [알람 시계](https://www.acmicpc.net/problem/2884)       | 브론즈 3 |           |           |
-| [개미](https://www.acmicpc.net/problem/3048)            | 실버 4   |           |           |
-| [도로와 신호등](https://www.acmicpc.net/problem/2980)   | 실버 4   |           |           |
-| [킹](https://www.acmicpc.net/problem/1063)              | 실버 3   |           |           |
-| [올림픽](https://www.acmicpc.net/problem/8979)          | 실버 5   |           |           |
-| [색종이](https://www.acmicpc.net/problem/2563)          | 실버 5   |           |           |
-| [테트로미노](https://www.acmicpc.net/problem/14500)     | 골드 4   |           |           |
-| [경사로](https://www.acmicpc.net/problem/14890)         | 골드 3   |           |           |
-| [새로운 게임2](https://www.acmicpc.net/problem/17837)   | 골드 2   |           |           |
-| [감시](https://www.acmicpc.net/problem/15683)           | 골드 4   |           |           |
-| [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | 골드 4   |           |           |
-| [드래곤 커브](https://www.acmicpc.net/problem/15685)    | 골드 4   |           |           |
-| [주사위 굴리기](https://www.acmicpc.net/problem/14499)  | 골드 4   |           |           |
-| [톱니바퀴](https://www.acmicpc.net/problem/14891)       | 골드 5   |           |           |
-| [치킨 배달](https://www.acmicpc.net/problem/15686)      | 골드 5   |           |           |
-| [로봇 청소기](https://www.acmicpc.net/problem/14503)    | 골드 5   |           |           |
-| [나무 재테크](https://www.acmicpc.net/problem/16235)    | 골드 3   |           |           |
-| [아기 상어](https://www.acmicpc.net/problem/16236)      | 골드 3   |           |           |
+| 문제                                                    | 난이도   | 해결 여부 | 해결 링크                                                    |
+| ------------------------------------------------------- | -------- | --------- | ------------------------------------------------------------ |
+| [세로읽기](https://www.acmicpc.net/problem/10798)       | 브론즈 1 |           |                                                              |
+| [윷놀이](https://www.acmicpc.net/problem/2490)          | 브론즈 3 |           |                                                              |
+| [알람 시계](https://www.acmicpc.net/problem/2884)       | 브론즈 3 |           |                                                              |
+| [개미](https://www.acmicpc.net/problem/3048)            | 실버 4   |           |                                                              |
+| [도로와 신호등](https://www.acmicpc.net/problem/2980)   | 실버 4   |           |                                                              |
+| [킹](https://www.acmicpc.net/problem/1063)              | 실버 3   |           |                                                              |
+| [올림픽](https://www.acmicpc.net/problem/8979)          | 실버 5   |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/%EA%B5%AC%ED%98%84/BJ_8979.java) |
+| [색종이](https://www.acmicpc.net/problem/2563)          | 실버 5   |           |                                                              |
+| [테트로미노](https://www.acmicpc.net/problem/14500)     | 골드 4   |           |                                                              |
+| [경사로](https://www.acmicpc.net/problem/14890)         | 골드 3   |           |                                                              |
+| [새로운 게임2](https://www.acmicpc.net/problem/17837)   | 골드 2   |           |                                                              |
+| [감시](https://www.acmicpc.net/problem/15683)           | 골드 4   |           |                                                              |
+| [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | 골드 4   |           |                                                              |
+| [드래곤 커브](https://www.acmicpc.net/problem/15685)    | 골드 4   |           |                                                              |
+| [주사위 굴리기](https://www.acmicpc.net/problem/14499)  | 골드 4   |           |                                                              |
+| [톱니바퀴](https://www.acmicpc.net/problem/14891)       | 골드 5   |           |                                                              |
+| [치킨 배달](https://www.acmicpc.net/problem/15686)      | 골드 5   |           |                                                              |
+| [로봇 청소기](https://www.acmicpc.net/problem/14503)    | 골드 5   |           |                                                              |
+| [나무 재테크](https://www.acmicpc.net/problem/16235)    | 골드 3   |           |                                                              |
+| [아기 상어](https://www.acmicpc.net/problem/16236)      | 골드 3   |           |                                                              |
 
 
 
@@ -112,7 +112,7 @@
 | [단지 번호 붙이기](https://www.acmicpc.net/problem/2667)     | 실버 1 |           |                                                              |
 | [안전 영역](https://www.acmicpc.net/problem/2468)            | 실버 1 |           |                                                              |
 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | 골드 5 |           |                                                              |
-| [촌수 계산](https://www.acmicpc.net/problem/2644)            | 실버 2 |           |                                                              |
+| [촌수 계산](https://www.acmicpc.net/problem/2644)            | 실버 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/DFS/BJ_2644.java) |
 | [결혼식](https://www.acmicpc.net/problem/5567)               | 실버 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/DFS/BJ_5567.java) |
 | [연구소](https://www.acmicpc.net/problem/14502)              | 골드 4 |           |                                                              |
 | [Baaaaaaaaaduk2](https://www.acmicpc.net/problem/16988)      | 골드 3 |           |                                                              |
