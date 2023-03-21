@@ -12,13 +12,13 @@
 | [블랙잭](https://www.acmicpc.net/problem/2798)        | 브론즈 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/BJ_2798.java) |
 | [분해합](https://www.acmicpc.net/problem/2231)        | 브론즈 2 |           | [:a: ](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/BJ_2231.java) |
 
-| 문제                                                         | 난이도  | 해결 여부 | 해결 링크 |
-| ------------------------------------------------------------ | ------- | --------- | --------- |
-| [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | Level 2 |           |           |
-| [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | Level 2 |           |           |
-| [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | Level 2 |           |           |
-| [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | Level 2 |           |           |
-| [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | Level 2 |           |           |
+| 문제                                                         | 난이도  | 해결 여부 | 해결 링크                                                    |
+| ------------------------------------------------------------ | ------- | --------- | ------------------------------------------------------------ |
+| [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | Level 2 |           |                                                              |
+| [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | Level 2 |           |                                                              |
+| [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | Level 2 |           |                                                              |
+| [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | Level 2 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/0af18893c68fd51d33b9323d62008a76cd271749/Algorithm_JAVA/src/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Lv2/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84_%EB%91%98%EB%A1%9C_%EB%82%98%EB%88%84%EA%B8%B0.java) |
+| [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | Level 2 |           |                                                              |
 
 <br>
 
@@ -32,7 +32,7 @@
 | 문제                                                    | 난이도   | 해결 여부 | 해결 링크                                                    |
 | ------------------------------------------------------- | -------- | --------- | ------------------------------------------------------------ |
 | [세로읽기](https://www.acmicpc.net/problem/10798)       | 브론즈 1 |           |                                                              |
-| [윷놀이](https://www.acmicpc.net/problem/2490)          | 브론즈 3 |           |                                                              |
+| [윷놀이](https://www.acmicpc.net/problem/2490)          | 브론즈 3 |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/9084e979e7d688af7099cad23d05621df40f23e7/Algorithm_JAVA/src/BJ/%EA%B5%AC%ED%98%84/BJ_2490.java) |
 | [알람 시계](https://www.acmicpc.net/problem/2884)       | 브론즈 3 |           |                                                              |
 | [개미](https://www.acmicpc.net/problem/3048)            | 실버 4   |           | [:a:](https://github.com/kim003512/Algorithm_JAVA/blob/master/Algorithm_JAVA/src/BJ/%EA%B5%AC%ED%98%84/BJ_3048.java) |
 | [도로와 신호등](https://www.acmicpc.net/problem/2980)   | 실버 4   |           |                                                              |
