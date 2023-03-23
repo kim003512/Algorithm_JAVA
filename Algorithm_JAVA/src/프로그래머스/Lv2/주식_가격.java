@@ -37,7 +37,6 @@ public class 주식_가격 {
                 if(prices[i] > prices[j]) break;
             }
         }
-
         return answer;
     }
 }
